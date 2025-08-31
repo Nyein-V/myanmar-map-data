@@ -3,7 +3,7 @@
 
 **Author:** Nyein Pyae Sone
 **Institute:** Myanmar Conflict Analysis Research Institute (MCARI)
-**Date:** August 2024
+**Date:** August 2025
 **Status:** Complete
 
 ---
