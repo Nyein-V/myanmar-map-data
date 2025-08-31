@@ -28,10 +28,10 @@ The complete findings are presented in an interactive data dashboard and a forma
 
 *   **View the Interactive Dashboard:** [https://tinyurl.com/thegreatdisplacementmyanmar24]
 *   **Read the Full Analytical Brief (PDF):**
-    *   [English Version](https://github.com/Nyein-V/myanmar-map-data/blob/main/The%20Great%20Displacement%20(1).pdf)
+    *   [English Version](https://github.com/Nyein-V/myanmar-map-data/raw/main/The%20Great%20Displacement%20(1).pdf)
     *   [Myanmar Version](https://github.com/Nyein-V/myanmar-map-data/raw/main/The%20Great%20Displacement%20(Burmese%20Version)%20(1).pdf)
 
-![Dashboard Screenshot](https://github.com/Nyein-V/myanmar-map-data/raw/main/final_dashboard_aug25.png)
+![Dashboard Screenshot]((https://github.com/Nyein-V/myanmar-map-data/raw/main/final_dashboard_aug25.png.png)
 
 ---
 
